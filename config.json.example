@@ -1,0 +1,27 @@
+{
+	"dev_token": "the token of the dev bot",
+	"release_token": "the token of the release bot",
+	"devGuildId": "the id of the dev guild",
+	"devChannelId": "the id of the dev channel",
+	"devRoleId": "the id of the role you want to notify when in dev mode",
+	"whatismyipurl": "the ip where it returns an ip reccomend : https://checkip.amazonaws.com/",
+
+	"servers": {
+		"srv1": {
+			"name": "Server 1",
+			"iconurl": "the url of the icon you want in the embed",
+			"color": "the color you want for the embed",
+			"guildId": "the id of the guild you want to send the message to",
+			"channelId": "the id of the channel you want to send the message to",
+			"roleId": "the id of the role you want to mention"
+		},
+		"srv2": {
+			"name": "Server 2",
+			"iconurl": "the url of the icon you want in the embed",
+			"color": "the color you want for the embed",
+			"guildId": "the id of the guild you want to send the message to",
+			"channelId": "the id of the channel you want to send the message to",
+			"roleId": "the id of the role you want to mention"
+		}
+	}
+}
